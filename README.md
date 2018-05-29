@@ -1,2 +1,2 @@
 # sso-koa
-利用koa大家sso的demo
+利用koa搭建sso(单点登录)的demo
